@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
-App en Angular que consume el API de Spotify y mediante una petición POST y con los Client ID y Client Secret obtienes un token para usar la API.
+App en Angular que consume la API de Spotify y mediante una petición POST y con los Client ID y Client Secret obtienes un token para usar la API.
 
 # Token expired
 
