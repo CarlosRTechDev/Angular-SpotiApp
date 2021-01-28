@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 App en Angular que consume la API de Spotify y mediante una petición POST y con los Client ID y Client Secret obtienes un token para usar la API.
 
-# Token expired
+# Error | Token expired
 
 Este mensaje de error se mostrará cuando el token haya expirado, sólo se puede usar por 1 hr y después se tendrá que hacer un nuevo request.
 
